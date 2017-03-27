@@ -1,5 +1,5 @@
 {
-  "name": "xml2js",
+  "name": "@rea-jet/xml2js",
   "description": "Simple XML to JavaScript object converter.",
   "keywords": [
     "xml",
